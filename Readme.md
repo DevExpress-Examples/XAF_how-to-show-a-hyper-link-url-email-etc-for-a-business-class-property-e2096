@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [HyperLinkDemoObject.cs](./CS/E2096.Module/HyperLinkDemoObject.cs) (VB: [HyperLinkDemoObject.vb](./VB/E2096.Module/HyperLinkDemoObject.vb))
+* [WebHyperLinkStringPropertyEditor.cs](./CS/HyperLinkPropertyEditor.Web/WebHyperLinkStringPropertyEditor.cs) (VB: [WebHyperLinkStringPropertyEditor.vb](./VB/HyperLinkPropertyEditor.Web/WebHyperLinkStringPropertyEditor.vb))
+* [WinHyperLinkStringPropertyEditor.cs](./CS/HyperLinkPropertyEditor.Win/WinHyperLinkStringPropertyEditor.cs) (VB: [WinHyperLinkStringPropertyEditor.vb](./VB/HyperLinkPropertyEditor.Win/WinHyperLinkStringPropertyEditor.vb))
+<!-- default file list end -->
 # How to show a hyper link (URL, email, etc.) for a business class property
 
 
